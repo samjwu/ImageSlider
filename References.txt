@@ -9,3 +9,9 @@ http://www.webteacher.ws/2014/06/26/wrapper-div/
 https://teamtreehouse.com/community/div-containers-div-wrappers
 https://www.w3schools.com/js/js_arrays.asp
 https://www.w3schools.com/js/js_array_methods.asp
+https://www.w3schools.com/jquery/html_wrapall.asp
+http://api.jquery.com/wrapall/
+https://www.w3schools.com/jquery/css_css.asp
+https://www.w3schools.com/jquery/jquery_css.asp
+http://api.jquery.com/css/
+https://www.w3schools.com/cssref/pr_class_float.asp
