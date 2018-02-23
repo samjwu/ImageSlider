@@ -17,7 +17,9 @@ $(document).ready(function() {
     $("#window").append(img);
     $("#window").append(buttons);
 
-    for(i = 0; i > imgcount; i++) {
-        $("img").append("<img src='" + imgsrcs[i] + "'>")
+    for(i = 0; i < imgcount; i++) {
+        $("img").append("<img src='" + imgsrcs[i] + "' width='1000'>")
     }
+
+    
 });
