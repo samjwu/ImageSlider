@@ -30,5 +30,25 @@ $(document).ready(function() {
         $("#wrapper").animate({"marginLeft": imagewidth*(-currimg)});
     }
 
-    
+    /**
+     * Change image when arrow buttons clicked
+     * @param {bool} leftbtn: true if left button clicked, false if right button clicked 
+     */
+    function changeimg(leftbtn) {
+        //go to first img
+        if(currimg == imgcount - 1 && !leftbtn) {
+            currimg = 0;
+        }
+        else if(!leftbtn) {
+            currimg++;
+        }
+        //go to last img
+        if(currimg == 0 && leftbtn) {
+            currimg = imgcount - 1;
+        }
+        else if(leftbtn) {
+            currimg--;
+        }
+        shiftslider();
+    }
 });
