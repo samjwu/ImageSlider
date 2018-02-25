@@ -1,3 +1,6 @@
+index.html
+https://stackoverflow.com/questions/38647190/jquery-animate-is-not-a-function
+
 styles.css
 https://www.w3schools.com/cssref/pr_pos_overflow.asp
 
