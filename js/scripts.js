@@ -24,4 +24,11 @@ $(document).ready(function() {
     $("#img").wrapAll(wrapper);
     $("#wrapper").css("float", "left");
     $("#wrapper").css("width", imagewidth*imgcount);
+
+
+    function shiftslider() {
+        $("#wrapper").animate({"marginLeft": imagewidth*(-currimg)});
+    }
+
+    
 });

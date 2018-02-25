@@ -15,3 +15,6 @@ https://www.w3schools.com/jquery/css_css.asp
 https://www.w3schools.com/jquery/jquery_css.asp
 http://api.jquery.com/css/
 https://www.w3schools.com/cssref/pr_class_float.asp
+https://www.w3schools.com/jquery/jquery_animate.asp
+http://api.jquery.com/animate/
+https://www.w3schools.com/jsref/prop_style_marginleft.asp
