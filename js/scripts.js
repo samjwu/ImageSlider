@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var currimg = 0;
-    var imagewidth = 1000;
+    var imagewidth = 1024;
 
     var window = $("<div id='window'></div>");
     var img = $("<div id='img'></div>");
