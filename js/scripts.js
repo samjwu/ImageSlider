@@ -51,4 +51,12 @@ $(document).ready(function() {
         }
         shiftslider();
     }
+
+    $("#leftbutton").click(function() {
+        changeimg(true);
+    });
+
+    $("#rightbutton").click(function() {
+        changeimg(false);
+    });
 });
