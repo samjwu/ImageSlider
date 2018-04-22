@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var currimg = 0;
-    var imagewidth = 1024;
+    var imagewidth = 800;
 
     var window = $("<div id='window'></div>");
     var img = $("<div id='img'></div>");
@@ -18,7 +18,7 @@ $(document).ready(function() {
     $("#window").append(buttons);
 
     for(i = 0; i < imgcount; i++) {
-        $("#img").append("<img src='" + imgsrcs[i] + "' width='1000'>")
+        $("#img").append("<img src='" + imgsrcs[i] + "' width='800'>")
     }
 
     $("#img").wrapAll(wrapper);
