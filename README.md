@@ -1,3 +1,7 @@
-# ImageSlider
+# Image Slider
 
-An Image Slider for Image Gallery Animated using jQuery
+An image slider for an image gallery animated using jQuery
+
+See it here: https://samjwu.github.io/ImageSlider/
+
+![imageslider](imageslider.PNG)
